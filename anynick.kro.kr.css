@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+}
+.pad {
+    padding: 25px;
+}
+.header {
+    background-color: crimson;
+    color: blue;
+    height: 100px;
+    font-size: 36pt;
+    text-align: center;
+}
+.main {
+    float: left;
+    background-color: beige;
+}
